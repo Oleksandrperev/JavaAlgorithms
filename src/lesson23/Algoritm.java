@@ -33,5 +33,8 @@ public class Algoritm {
             } else arr.add(Integer.toString(a[i]));
         }
         return arr;
+
     }
+    //comment
+    //git
 }
