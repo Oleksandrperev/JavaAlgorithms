@@ -35,6 +35,5 @@ public class Algoritm {
         return arr;
 
     }
-    //comment
-    //git
+
 }
