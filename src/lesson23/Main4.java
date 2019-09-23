@@ -27,6 +27,11 @@ public class Main4 {
             System.out.println(array1.get(i));
         }
 
+//        Cat cat = new Cat();
+//        System.out.println(cat.name);
+//        cat.name = "Barsik";
+//        System.out.println(cat.name);
+
 
 
     }
